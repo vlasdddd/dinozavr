@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+*.log
+dqn_dino_best.pth
+dqn_dino_train.pth
+dqn_dino_v2_backup.pth
+dqn_dino.pth
